@@ -9,6 +9,7 @@ Detectron2 Documentation: https://detectron2.readthedocs.io/index.html
 <body>
 
 <h1 style="text-align:center;">Original Image</h1>
+<img src="/assets/original.jpg" width="1000">
 
 </body>
 </html>
