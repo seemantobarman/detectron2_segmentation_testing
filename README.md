@@ -4,6 +4,8 @@ Github_Link: https://github.com/facebookresearch/detectron2
 
 Detectron2 Documentation: https://detectron2.readthedocs.io/index.html
 
+If the notebook doesn't load then view the notebook here: https://nbviewer.jupyter.org/github/seemantobarman/detectron2_segmentation_testing/blob/master/Detectron2_model_testing%28still_image%29.ipynb
+
 <!DOCTYPE html>
 <html>
 <body>
