@@ -1,2 +1,3 @@
 # detectron2_segmentation_testing
-Playing with Facebook's Detectron2
+
+Github_Link: https://github.com/facebookresearch/detectron2
